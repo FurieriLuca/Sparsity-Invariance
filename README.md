@@ -18,6 +18,27 @@ To be cited as:
 > }
 
 
+Also contains the code to reproduce the key examples associated with the paper:
+
+*An Input-Output Parametrization of Stabilizing Controllers: amidst Youla and System Level Synthesis*, by 
+by Luca Furieri, Yang Zheng, Antonis Papachristodoulou, Maryam Kamgarpour,
+
+IEEE Control Systems Letters (L-CSS), 2019, [IEEExplore](https://ieeexplore.ieee.org/document/8727508), [Postprint](https://arxiv.org/pdf/1903.03828.pdf)
+
+To be cited as
+
+>@article{furieri2019input,
+>  title={An Input--Output Parametrization of Stabilizing Controllers: Amidst Youla and System Level Synthesis},
+>  author={Furieri, Luca and Zheng, Yang and Papachristodoulou, Antonis and Kamgarpour, Maryam},
+>  journal={IEEE Control Systems Letters},
+>  volume={3},
+>  number={4},
+>  pages={1014--1019},
+>  year={2019},
+>  publisher={IEEE}
+> }
+
+
 
 
 
