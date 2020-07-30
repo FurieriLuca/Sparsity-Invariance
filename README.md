@@ -15,9 +15,9 @@ To be cited as:
 >  journal={IEEE Transactions on Control of Network Systems},
 >  year={2020},
 >  publisher={IEEE}
-> }
+> }  
 
-
+  <br /><br /><br /><br />
 Also contains the code to reproduce the key examples associated with the paper:
 
 *An Input-Output Parametrization of Stabilizing Controllers: amidst Youla and System Level Synthesis*, by 
